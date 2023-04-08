@@ -43,10 +43,10 @@
     },
     "route": {
         "geoip": {
-            "download_url": "https://github.com/soffchen/sing-geoip/releases/latest/download/geoip.db"
+            "download_url": "https://github.com/malikshi/sing-box-geo/releases/latest/download/geoip.db"
         },
         "geosite": {
-            "download_url": "https://github.com/soffchen/sing-geosite/releases/latest/download/geosite.db"
+            "download_url": "https://github.com/malikshi/sing-box-geo/releases/latest/download/geosite.db"
         },
         "rules": [
             {
