@@ -36,7 +36,7 @@
             "server": "", // 服务端的域名或 IP
             "server_port": 443,
             "uuid": "ee48f7be-6ae9-5654-9b61-8466aa8e16bc", // 与服务端一致
-            "flow": "", // 留空
+            "flow": "123", // 留空
             "tls": {
                 "enabled": true,
                 "server_name": "www.lovelive-anime.jp", // 与服务端一致
